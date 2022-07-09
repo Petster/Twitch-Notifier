@@ -56,5 +56,7 @@ __***__ Phone Carrier List:
   - T-Mobile
   - Verizon
   - Sprint
+  
+Once everything is setup just run __main.py__
 
 If you have any bugs please feel free to contact me, and if you have any suggestions to make the app better let me know :)
